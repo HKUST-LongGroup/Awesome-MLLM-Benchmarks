@@ -5374,7 +5374,7 @@ challenges posed by this new task. Codes and dataset are available at
 https://github.com/qiantianwen/NuScenes-QA.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2305.14836)
+[📄 Paper](https://arxiv.org/pdf/2305.14836) | [💻 Code](https://github.com/qiantianwen/NuScenes-QA)
 
 ### 3. (MIND2WEB) Mind2Web: Towards a Generalist Agent for the Web
 **Date**: 2023.06.09
@@ -5403,7 +5403,7 @@ trained models (https://osu-nlp-group.github.io/Mind2Web) to facilitate further
 research on building a generalist agent for the web.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2306.06070)
+[📄 Paper](https://arxiv.org/pdf/2306.06070) | [🌐 Project Page](https://osu-nlp-group.github.io/Mind2Web) | [💻 Code](https://github.com/OSU-NLP-Group/Mind2Web)
 
 ### 4. (OpenEQA) OpenEQA: Embodied Question Answering in the Era of Foundation Models
 **Date**: 2023.06.19
@@ -5443,7 +5443,7 @@ performance across the dataset. The dataset is available at
 https://github.com/google-research/google-research/tree/master/android_in_the_wild.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2307.10088)
+[📄 Paper](https://arxiv.org/abs/2307.10088) | [💻 Code](https://github.com/google-research/google-research/tree/master/android_in_the_wild)
 
 ### 6. (WebArena) WebArena: A Realistic Web Environment for Building Autonomous Agents
 **Date**: 2023.07.25
@@ -5475,7 +5475,7 @@ perfect performance in these real-life tasks, and that WebArena can be used to
 measure such progress.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2307.13854)
+[📄 Paper](https://arxiv.org/abs/2307.13854) | [🌐 Project Page](https://webarena.dev/) | [💻 Code](https://github.com/web-arena-x/webarena)
 
 ### 7. (PCA-EVAL) Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond
 **Date**: 2023.10.03
@@ -5505,7 +5505,7 @@ embodied agents, offering new avenues for MLLM research. Code and data are open
 at https://github.com/pkunlp-icler/PCA-EVAL/.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2310.02071)
+[📄 Paper](https://arxiv.org/pdf/2310.02071) | [💻 Code](https://github.com/pkunlp-icler/PCA-EVAL/)
 
 ### 8. (RoboVQA) RoboVQA: Multimodal Long-Horizon Reasoning for Robotics
 **Date**: 2023.11.01
@@ -5541,7 +5541,7 @@ of 19% across all VQA tasks. Data and videos available at
 https://robovqa.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.00899)
+[📄 Paper](https://arxiv.org/abs/2311.00899) | [🌐 Project Page](https://robovqa.github.io) | [💻 Code](https://github.com/google-deepmind/robovqa/tree/main)
 
 ### 9. (EgoPlan-Bench) EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning
 **Date**: 2023.12.11
@@ -5570,7 +5570,7 @@ performance on EgoPlan-Bench. We have made all codes, data, and a maintained
 benchmark leaderboard available to advance future research.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2312.06722)
+[📄 Paper](https://arxiv.org/pdf/2312.06722) | [🌐 Project Page](https://chenyi99.github.io/ego_plan/) | [💻 Code](https://github.com/ChenYi99/EgoPlan)
 
 ### 10. (DriveLM-DATA) DriveLM: Driving with Graph Visual Question Answering
 **Date**: 2023.12.21
@@ -5600,7 +5600,7 @@ on how to apply VLMs for autonomous driving. To facilitate future research, all
 code, data, and models are available to the public.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2312.14150)
+[📄 Paper](https://arxiv.org/abs/2312.14150) | [💻 Code](https://github.com/OpenDriveLab/DriveLM)
 
 ### 11. (TransportationGames) TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models
 **Date**: 2024.01.09
@@ -5629,7 +5629,7 @@ as a foundation for future research, thereby accelerating the implementation
 and application of (M)LLMs in the transportation domain.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.04471)
+[📄 Paper](https://arxiv.org/pdf/2401.04471) | [🌐 Project Page](https://transportation.games/#/HomePage)
 
 ### 12. (VisualWebArena) VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
 **Date**: 2024.01.24
@@ -5660,7 +5660,7 @@ autonomous agents for the web. Our code, baseline models, and data is publicly
 available at https://jykoh.com/vwa.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2401.13649)
+[📄 Paper](https://arxiv.org/abs/2401.13649) | [🌐 Project Page](https://jykoh.com/vwa) | [💻 Code](https://github.com/web-arena-x/visualwebarena)
 
 ### 13. (Mobile-Eval) Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 **Date**: 2024.01.29
@@ -5687,7 +5687,7 @@ multi-app operations, Mobile-Agent can still complete the requirements. Code
 and model will be open-sourced at https://github.com/X-PLUG/MobileAgent.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.16158)
+[📄 Paper](https://arxiv.org/pdf/2401.16158) | [💻 Code](https://github.com/X-PLUG/MobileAgent)
 
 ### 14. (LHRS-Bench) LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model
 **Date**: 2024.02.04
@@ -5712,7 +5712,7 @@ profound understanding of RS images and the ability to perform nuanced
 reasoning within the RS domain.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.02544)
+[📄 Paper](https://arxiv.org/pdf/2402.02544) | [💻 Code](https://github.com/NJU-LHRS/LHRS-Bot)
 
 ### 15. (Asclepius) Asclepius: A Spectrum Evaluation Benchmark for Medical Multi-Modal Large Language Models
 **Date**: 2024.02.17
@@ -5745,7 +5745,7 @@ maintain a leaderboard for community assessment of Med-MLLM capabilities
 (https://asclepius-med.github.io/).
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.11217)
+[📄 Paper](https://arxiv.org/pdf/2402.11217) | [🌐 Project Page](https://asclepius-med.github.io/)
 
 ### 16. (MM-Soc) MM-Soc: Benchmarking Multimodal Large Language Models in Social Media Platforms
 **Date**: 2024.02.21
@@ -5773,7 +5773,7 @@ suggesting potential pathways for improvement. Our code and data are available
 at https://github.com/claws-lab/MMSoc.git.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.14154)
+[📄 Paper](https://arxiv.org/pdf/2402.14154) | [💻 Code](https://github.com/claws-lab/MMSoc)
 
 ### 17. (M3D-Bench) M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models
 **Date**: 2024.03.31
@@ -5798,7 +5798,7 @@ for 3D medical image analysis, outperforming existing solutions. All code,
 data, and models are publicly available at: https://github.com/BAAI-DCAI/M3D.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2404.00578)
+[📄 Paper](https://arxiv.org/abs/2404.00578) | [💻 Code](https://github.com/BAAI-DCAI/M3D)
 
 ### 18. (Ferret-UI) Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs
 **Date**: 2024.04.09
@@ -5890,7 +5890,7 @@ AI-supported engineering design processes. DesignQA is publicly available at:
 https://github.com/anniedoris/design_qa/.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2404.07917)
+[📄 Paper](https://arxiv.org/abs/2404.07917) | [💻 Code](https://github.com/anniedoris/design_qa/)
 
 ### 21. (QB-Poster) PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM
 **Date**: 2024.06.02
@@ -5920,7 +5920,7 @@ datasets will be publicly available on
 https://github.com/posterllava/PosterLLaVA.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.02884)
+[📄 Paper](https://arxiv.org/pdf/2406.02884) | [💻 Code](https://github.com/posterllava/PosterLLaVA)
 
 ### 22. (MMRo) MMRo: Are Multimodal LLMs Eligible as the Brain for In-Home Robotics?
 **Date**: 2024.06.19
@@ -5952,7 +5952,7 @@ cognitive core for robots. Our data can be found in
 https://mm-robobench.github.io/.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.19693)
+[📄 Paper](https://arxiv.org/pdf/2406.19693) | [🌐 Project Page](https://mm-robobench.github.io/)
 
 ### 23. (PubMedVision) HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale
 **Date**: 2024.06.19
@@ -5979,7 +5979,7 @@ PubMedVision, we train a 34B medical MLLM HuatuoGPT-Vision, which shows
 superior performance in medical multimodal scenarios among open-source MLLMs.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.19280)
+[📄 Paper](https://arxiv.org/abs/2406.19280) | [💻 Code](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
 
 ### 24. (SPR) Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
 **Date**: 2024.06.27
@@ -6009,8 +6009,8 @@ actions along the path of agent execution trajectories. Code and data:
 screen-point-and-read.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.19263)
-
+[📄 Paper](https://arxiv.org/abs/2406.19263) | [🌐 Project Page](screen-point-and-read.github.io) | [💻 Code](https://github.com/eric-ai-lab/Screen-Point-and-Read)
+ 
 ### 25. (CRAB) CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents
 **Date**: 2024.07.02
 
@@ -6036,7 +6036,7 @@ best completion ratio of 35.26%. All framework code, agent code, and task
 datasets are publicly available at https://github.com/camel-ai/crab.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.01511)
+[📄 Paper](https://arxiv.org/pdf/2407.01511) | [💻 Code](https://github.com/camel-ai/crab)
 
 ### 26. (GMAI-MMBench) GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI
 **Date**: 2024.08.06
@@ -6069,7 +6069,7 @@ believe that GMAI-MMBench will stimulate the community to build the next
 generation of LVLMs toward GMAI.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2408.03361)
+[📄 Paper](https://arxiv.org/pdf/2408.03361) | [🌐 Project Page](https://uni-medical.github.io/GMAI-MMBench.github.io/) | [💻 Code](https://github.com/uni-medical/GMAI-MMBench)
 
 ### 27. (VisualAgentBench) VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents
 **Date**: 2024.08.13
@@ -6099,4 +6099,4 @@ foundation agents. Code, train \& test data, and part of fine-tuned open LMMs
 are available at \url{https://github.com/THUDM/VisualAgentBench}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2408.06327v1)
+[📄 Paper](https://arxiv.org/pdf/2408.06327v1) | [💻 Code](https://github.com/THUDM/VisualAgentBench)
