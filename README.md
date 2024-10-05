@@ -77,7 +77,8 @@ and evaluation set are available at https://github.com/X-PLUG/mPLUG-Owl. The
 online demo is available at https://www.modelscope.cn/studios/damo/mPLUG-Owl.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2304.14178)
+[📄 Paper](https://arxiv.org/pdf/2304.14178) | [🌐 Project Page](https://www.modelscope.cn/studios/damo/mPLUG-Owl) | [💻 Code](https://github.com/X-PLUG/mPLUG-Owl)
+
 
 ### 4. (OCRBench) OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models
 **Date**: 2023.05.13
@@ -105,7 +106,7 @@ at enhancing zero-shot multimodal techniques. The evaluation pipeline and
 benchmark are available at https://github.com/Yuliang-Liu/MultimodalOCR.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2305.07895)
+[📄 Paper](https://arxiv.org/pdf/2305.07895) | [💻 Code](https://github.com/Yuliang-Liu/MultimodalOCR)
 
 ### 5. (GVT-Bench) What Makes for Good Visual Tokenizers for Large Language Models?
 **Date**: 2023.05.20
@@ -137,7 +138,7 @@ answering, image captioning, and other fine-grained visual understanding tasks
 such as object counting and multi-class identification.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2305.12223)
+[📄 Paper](https://arxiv.org/abs/2305.12223) | [💻 Code](https://github.com/TencentARC/GVT)
 
 ### 6. (PerceptionTest) Perception Test: A Diagnostic Benchmark for Multimodal Video Models
 **Date**: 2023.05.23
@@ -169,7 +170,7 @@ multimodal video understanding.
 https://github.com/deepmind/perception_test
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2305.13786)
+[📄 Paper](https://arxiv.org/abs/2305.13786) | [💻 Code](https://github.com/deepmind/perception_test)
 
 ### 7. (CODE) Contextual Object Detection with Multimodal Large Language Models
 **Date**: 2023.05.29
@@ -197,7 +198,7 @@ open-vocabulary detection, and referring image segmentation. Github:
 https://github.com/yuhangzang/ContextDET.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2305.18279)
+[📄 Paper](https://arxiv.org/abs/2305.18279) | [💻 Code](https://github.com/yuhangzang/ContextDET)
 
 ### 8. (Lvlm-ehub) LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models
 **Date**: 2023.06.09
@@ -231,7 +232,7 @@ techniques. Our LVLM-eHub will be available at
 https://github.com/OpenGVLab/Multi-Modality-Arena
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.09265)
+[📄 Paper](https://arxiv.org/abs/2306.09265) | [💻 Code](https://github.com/OpenGVLab/Multi-Modality-Arena)
 
 ### 9. (LAMM) LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark
 **Date**: 2023.06.11
@@ -267,7 +268,7 @@ hours, framework supports training with V100 and RTX3090 is available thanks to
 the open-source society.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.06687)
+[📄 Paper](https://arxiv.org/abs/2306.06687) | [🌐 Project Page](https://openlamm.github.io/) | [💻 Code](https://github.com/OpenGVLab/LAMM)
 
 ### 10. (MME) MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models
 **Date**: 2023.06.13
@@ -294,7 +295,7 @@ leaderboards are released at
 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.13394)
+[📄 Paper](https://arxiv.org/abs/2306.13394) | [💻 Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)
 
 ### 11. (Obelics) OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents
 **Date**: 2023.06.16
@@ -316,7 +317,7 @@ IDEFICS, and obtain competitive performance on different multimodal benchmarks.
 We release our dataset, models and code.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2306.16527)
+[📄 Paper](https://arxiv.org/pdf/2306.16527) | [💻 Code](https://github.com/huggingface/OBELICS)
 
 ### 12. (Open-VQA) What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?
 **Date**: 2023.07.05
@@ -344,7 +345,7 @@ multi-modal generation ability compared to existing open-sourced GPT4-style
 models.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2307.02469)
+[📄 Paper](https://arxiv.org/abs/2307.02469) | [🌐 Project Page](https://lynx-llm.github.io/) | [💻 Code](https://github.com/bytedance/lynx-llm)
 
 ### 13. (MMBench) MMBench: Is Your Multi-modal Model an All-around Player?
 **Date**: 2023.07.06
@@ -379,7 +380,7 @@ future progress in this area. The evalutation code of MMBench has been
 integrated into VLMEvalKit: https://github.com/open-compass/VLMEvalKit.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2307.06281)
+[📄 Paper](https://arxiv.org/abs/2307.06281) | [💻 Code](https://github.com/open-compass/VLMEvalKit)
 
 ### 14. (SEED-Bench) SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension
 **Date**: 2023.07.30
@@ -409,7 +410,7 @@ and consistently maintain a leaderboard to provide a platform for the community
 to assess and investigate model capability.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2307.16125)
+[📄 Paper](https://arxiv.org/abs/2307.16125) | [💻 Code](https://github.com/AILab-CVC/SEED-Bench)
 
 ### 15. (MovieChat-1k) MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
 **Date**: 2023.07.31
@@ -430,7 +431,7 @@ the released MovieChat-1K benchmark with 1K long video and 14K manual
 annotations for validation of the effectiveness of our method.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2307.16449)
+[📄 Paper](https://arxiv.org/pdf/2307.16449) | [🌐 Project Page](https://rese1f.github.io/MovieChat/) | [💻 Code](https://github.com/rese1f/MovieChat)
 
 ### 16. (MM-Vet) MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities
 **Date**: 2023.08.02
@@ -459,7 +460,7 @@ capabilities of different LMM system paradigms and models. Code and data are
 available at https://github.com/yuweihao/MM-Vet.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2308.02490)
+[📄 Paper](https://arxiv.org/abs/2308.02490) | [💻 Code](https://github.com/yuweihao/MM-Vet)
 
 ### 17. (TinyLVLM) TinyLVLM-eHub: Towards Comprehensive and Efficient Evaluation for Large Vision-Language Models
 **Date**: 2023.08.07
@@ -492,8 +493,7 @@ innovative strategies aimed at advancing multimodal techniques. Our project is
 publicly available at \url{https://github.com/OpenGVLab/Multi-Modality-Arena}.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2308.03729)
-
+[📄 Paper](https://arxiv.org/abs/2308.03729) | [💻 Code](https://github.com/OpenGVLab/Multi-Modality-Arena)
 ### 18. (TouchStone) TouchStone: Evaluating Vision-Language Models by Language Models
 **Date**: 2023.08.16
 
@@ -523,7 +523,7 @@ building stronger LVLMs. The evaluation code is available at
 https://github.com/OFA-Sys/TouchStone.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2308.16890)
+[📄 Paper](https://arxiv.org/abs/2308.16890) | [💻 Code](https://github.com/OFA-Sys/TouchStone)
 
 ### 19. (EgoSchema) EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding
 **Date**: 2023.08.18
@@ -558,7 +558,7 @@ both public and commercial use under the Ego4D license at
 http://egoschema.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2308.09126)
+[📄 Paper](https://arxiv.org/pdf/2308.09126) | [🌐 Project Page](https://egoschema.github.io/) | [💻 Code](https://github.com/egoschema/egoschema)
 
 ### 20. (SeaEval) SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
 **Date**: 2023.09.04
@@ -586,7 +586,7 @@ as a launchpad for more thorough investigations and evaluations for
 multilingual and multicultural scenarios.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2309.04766)
+[📄 Paper](https://arxiv.org/pdf/2309.04766) | [💻 Code](https://github.com/SeaEval/SeaEval)
 
 ### 21. (Dynamic-SUPERB) Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech
 **Date**: 2023.09.18
@@ -614,7 +614,7 @@ public and welcome researchers to collaborate on the project, advancing
 technologies in the field together.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2309.09510)
+[📄 Paper](https://arxiv.org/pdf/2309.09510) | [💻 Code](https://github.com/dynamic-superb/dynamic-superb)
 
 ### 22. (Q-Bench) Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision
 **Date**: 2023.09.25
@@ -649,7 +649,7 @@ to discover and enhance these untapped potentials of MLLMs. Project Page:
 https://q-future.github.io/Q-Bench.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2309.14181)
+[📄 Paper](https://arxiv.org/abs/2309.14181) | [💻 Code](https://q-future.github.io/Q-Bench)
 
 ### 23. (CHef) ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models
 **Date**: 2023.11.06
@@ -684,7 +684,7 @@ modular toolkit for the integration of new recipes and models, so that ChEF can
 be a growing evaluation framework for the MLLM community.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.02692)
+[📄 Paper](https://arxiv.org/abs/2311.02692) | [💻 Code](https://github.com/OpenGVLab/LAMM)
 
 ### 24. (MagnifierBench) OtterHD: A High-Resolution Multi-modality Model
 **Date**: 2023.11.08
@@ -711,7 +711,7 @@ and also exemplifies the potential inherent in the Fuyu architecture's
 simplicity for handling complex visual data.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.04219)
+[📄 Paper](https://arxiv.org/pdf/2311.04219) | [💻 Code](https://github.com/Luodian/Otter)
 
 ### 25. (MMMU) MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI
 **Date**: 2023.11.16
@@ -738,7 +738,7 @@ next-generation multimodal foundation models towards expert artificial general
 intelligence.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.16502)
+[📄 Paper](https://arxiv.org/abs/2311.16502) | [🌐 Project Page](https://mmmu-benchmark.github.io/) | [💻 Code](https://github.com/MMMU-Benchmark/MMMU)
 
 ### 26. (AutoEval-Video) AutoEval-Video: An Automatic Benchmark for Assessing Large Vision Language Models in Open-Ended Video Question Answering
 **Date**: 2023.11.26
@@ -769,7 +769,7 @@ overly general responses. Code is available at
 https://github.com/Xiuyuan-Chen/AutoEval-Video.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.14906)
+[📄 Paper](https://arxiv.org/pdf/2311.14906) | [💻 Code](https://github.com/Xiuyuan-Chen/AutoEval-Video)
 
 ### 27. (SEED-Bench-2) SEED-Bench-2: Benchmarking Multimodal Large Language Models
 **Date**: 2023.11.28
@@ -802,7 +802,7 @@ Artificial Intelligence. Dataset and evaluation code are available at
 \href{https://github.com/AILab-CVC/SEED-Bench}
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.17092)
+[📄 Paper](https://arxiv.org/abs/2311.17092) | [💻 Code](https://github.com/AILab-CVC/SEED-Bench)
 
 ### 28. (Video-Bench) Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models
 **Date**: 2023.11.29
@@ -832,7 +832,7 @@ valuable insights for future research directions. The benchmark and toolkit are
 available at: \url{https://github.com/PKU-YuanGroup/Video-Bench}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.16103)
+[📄 Paper](https://arxiv.org/pdf/2311.16103) | [💻 Code](https://github.com/PKU-YuanGroup/Video-Bench)
 
 ### 29. (VITATECS) VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models
 **Date**: 2023.11.29
@@ -858,7 +858,7 @@ temporal understanding, revealing the need for greater emphasis on the temporal
 elements in video-language research.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.17404)
+[📄 Paper](https://arxiv.org/pdf/2311.17404) | [💻 Code](https://github.com/lscpku/VITATECS)
 
 ### 30. (MVBench) MVBench: A Comprehensive Multi-modal Video Understanding Benchmark
 **Date**: 2023.11.29
@@ -890,7 +890,7 @@ VideoChat2 largely surpasses these leading models by over 15% on MVBench. All
 models and data are available at https://github.com/OpenGVLab/Ask-Anything.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.17005)
+[📄 Paper](https://arxiv.org/pdf/2311.17005) | [💻 Code](https://github.com/OpenGVLab/Ask-Anything)
 
 ### 31. (V\*Bench) VBench: Comprehensive Benchmark Suite for Video Generative Models
 **Date**: 2023.11.29
@@ -920,7 +920,7 @@ preference annotations, and also include more video generation models in VBench
 to drive forward the field of video generation.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.17982)
+[📄 Paper](https://arxiv.org/abs/2311.17982) | [🌐 Project Page](https://vchitect.github.io/VBench-project/) | [💻 Code](https://github.com/Vchitect/VBench)
 
 ### 32. (SPEC) Synthesize, Diagnose, and Optimize: Towards Fine-Grained Vision-Language Understanding
 **Date**: 2023.11.30
@@ -948,7 +948,7 @@ consistent improvements, further validating the transferability of our
 approach. Code and data are available at https://github.com/wjpoom/SPEC.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2312.00081)
+[📄 Paper](https://arxiv.org/pdf/2312.00081) | [💻 Code](https://github.com/wjpoom/SPEC)
 
 ### 33. (TimeIT) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding
 **Date**: 2023.12.04
@@ -973,7 +973,7 @@ holding the potential to serve as a versatile video assistant for long-form
 video comprehension tasks and satisfy realistic user requirements.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2312.02051)
+[📄 Paper](https://arxiv.org/abs/2312.02051) | [💻 Code](https://github.com/RenShuhuai-Andy/TimeChat)
 
 ### 34. (M3DBench) M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts
 **Date**: 2023.12.18
@@ -1002,7 +1002,7 @@ baseline, supporting general 3D-centric tasks, which can inspire future
 research.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2312.10763)
+[📄 Paper](https://arxiv.org/pdf/2312.10763) | [💻 Code](https://github.com/OpenM3D/M3DBench/)
 
 ### 35. (V*Bench) $\textit{V}^*$: Guided Visual Search as a Core Mechanism in Multimodal LLMs
 **Date**: 2023.12.21
@@ -1027,7 +1027,7 @@ necessity of incorporating visual search capabilities into multimodal systems.
 The code is available https://github.com/penghao-wu/vstar.
 </details>
 
-[📄 Paper](https://arxiv.org/html/2312.14135v1)
+[📄 Paper](https://arxiv.org/html/2312.14135v1) | [💻 Code](https://github.com/penghao-wu/vstar)
 
 ### 36. (Mementos) Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences
 **Date**: 2024.01.10
@@ -1055,7 +1055,7 @@ compounding impact of behavioral hallucinations. Our dataset is available at
 https://github.com/umd-huang-lab/Mementos.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.10529)
+[📄 Paper](https://arxiv.org/pdf/2401.10529) | [💻 Code](https://github.com/umd-huang-lab/Mementos)
 
 ### 37. (MMVP) Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
 **Date**: 2024.01.11
@@ -1086,7 +1086,7 @@ remains an open challenge, and accurate visual grounding is crucial for future
 successful multimodal systems.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2401.06209)
+[📄 Paper](https://arxiv.org/abs/2401.06209) | [🌐 Project Page](https://tsb0601.github.io/mmvp_blog/) | [💻 Code](https://github.com/tsb0601/MMVP)
 
 ### 38. (MM-SAP) MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception
 **Date**: 2024.01.15
@@ -1114,7 +1114,7 @@ development of trustworthy MLLMs. Code and data are available at
 https://github.com/YHWmz/MM-SAP.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.07529)
+[📄 Paper](https://arxiv.org/pdf/2401.07529) | [💻 Code](https://github.com/YHWmz/MM-SAP)
 
 ### 39. (AesBench) AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception
 **Date**: 2024.01.16
@@ -1144,7 +1144,7 @@ potentials of MLLMs. Source data will be available at
 https://github.com/yipoh/AesBench.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2401.08276)
+[📄 Paper](https://arxiv.org/abs/2401.08276) | [💻 Code](https://github.com/yipoh/AesBench)
 
 ### 40. (Q-Bench+) Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs
 **Date**: 2024.02.11
@@ -1179,7 +1179,7 @@ research into uncovering and enhancing these nascent capabilities of MLLMs.
 Datasets will be available at https://github.com/Q-Future/Q-Bench.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.07116)
+[📄 Paper](https://arxiv.org/abs/2402.07116) | [💻 Code](https://github.com/Q-Future/Q-Bench)
 
 ### 41. (AIR-Bench) AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
 **Date**: 2024.02.12
@@ -1214,7 +1214,7 @@ the limitations of existing LALMs through evaluation results, AIR-Bench can
 provide insights into the direction of future research.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.07729)
+[📄 Paper](https://arxiv.org/pdf/2402.07729) | [💻 Code](https://github.com/OFA-Sys/AIR-Bench)
 
 ### 42. (MCUB) Model Composition for Multimodal Large Language Models
 **Date**: 2024.02.20
@@ -1241,7 +1241,7 @@ can create a versatile model capable of processing inputs from multiple
 modalities.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.12750)
+[📄 Paper](https://arxiv.org/pdf/2402.12750) | [💻 Code](https://github.com/THUNLP-MT/ModelCompose)
 
 ### 43. (CODIS) CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models
 **Date**: 2024.02.21
@@ -1265,7 +1265,7 @@ ability of MLLMs to comprehend visuals in a context-dependent manner. View our
 project website at https://thunlp-mt.github.io/CODIS.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.13607)
+[📄 Paper](https://arxiv.org/abs/2402.13607) | [💻 Code](https://thunlp-mt.github.io/CODIS)
 
 ### 44. (OSCaR) OSCaR: Object State Captioning and State Change Representation
 **Date**: 2024.02.27
@@ -1293,7 +1293,7 @@ generalization ability for effective understanding of these changes. Our code
 and dataset are available at https://github.com/nguyennm1024/OSCaR.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.17128)
+[📄 Paper](https://arxiv.org/pdf/2402.17128) | [💻 Code](https://github.com/nguyennm1024/OSCaR)
 
 ### 45. (TempCompass) TempCompass: Do Video LLMs Really Understand Videos?
 **Date**: 2024.03.01
@@ -1325,7 +1325,7 @@ perception ability. Our data will be available at
 https://github.com/llyx97/TempCompass.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2403.00476)
+[📄 Paper](https://arxiv.org/pdf/2403.00476) | [💻 Code](https://github.com/llyx97/TempCompass)
 
 ### 46. (Henna) Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks
 **Date**: 2024.03.02
@@ -1350,7 +1350,7 @@ culturally-aware Arabic MLLMs.The GitHub repository for the \textit{Peacock}
 project is available at \url{https://github.com/UBC-NLP/peacock}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2403.01031)
+[📄 Paper](https://arxiv.org/pdf/2403.01031) | [💻 Code](https://github.com/UBC-NLP/peacock)
 
 ### 47. (VL-ICLBench) VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning
 **Date**: 2024.03.19
@@ -1380,9 +1380,9 @@ capabilities of VLLMs, as well as inspire new applications that leverage VLLM
 ICL. The code and dataset are available at https://github.com/ys-zong/VL-ICL.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.13164)
+[📄 Paper](https://arxiv.org/abs/2403.13164) | [💻 Code](https://github.com/ys-zong/VL-ICL)
 
-### 48. (P$^2$GB) Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models
+### 48. (P^2GB) Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models
 **Date**: 2024.03.28
 
 **Affiliation**: Peking University
@@ -1406,7 +1406,7 @@ underscores the potential of grounding reasoning with external agents in MLLMs,
 presenting a promising alternative to mere model scaling.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.19322)
+[📄 Paper](https://arxiv.org/abs/2403.19322) 
 
 ### 49. (MMStar) Are We on the Right Way for Evaluating Large Vision-Language Models?
 **Date**: 2024.03.29
@@ -1441,7 +1441,7 @@ multi-modal capabilities, and on 7 benchmarks with the proposed metrics to
 investigate their data leakage and actual multi-modal gain.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.20330)
+[📄 Paper](https://arxiv.org/abs/2403.20330) | [🌐 Project Page](https://mmstar-benchmark.github.io/) | [💻 Code](https://github.com/MMStar-Benchmark/MMStar)
 
 ### 50. (MDVP-Bench) Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want
 **Date**: 2024.03.29
@@ -1471,7 +1471,7 @@ significant improvements in detailed pixel-level description and
 question-answering abilities.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.20271)
+[📄 Paper](https://arxiv.org/abs/2403.20271) | [🌐 Project Page](https://draw-and-understand.github.io/) | [💻 Code](https://github.com/AFeng-x/Draw-and-Understand)
 
 ### 51. (FABA-Bench) Facial Affective Behavior Analysis with Instruction Tuning
 **Date**: 2024.04.07
@@ -1502,7 +1502,7 @@ EmoLA achieves the best results on our FABA-Bench. On commonly-used FABA
 datasets, EmoLA is competitive rivaling task-specific state-of-the-art models.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2404.05052)
+[📄 Paper](https://arxiv.org/abs/2404.05052) | [🌐 Project Page](https://johnx69.github.io/FABA/) | [💻 Code](https://github.com/JackYFL/EmoLA)
 
 ### 52. (LaVy-Bench) LaVy: Vietnamese Multimodal Large Language Model
 **Date**: 2024.04.11
@@ -1521,7 +1521,7 @@ MLLMs's understanding on Vietnamese visual language tasks. Our project is
 public at https://github.com/baochi0212/LaVy
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.07922)
+[📄 Paper](https://arxiv.org/pdf/2404.07922) | [💻 Code](https://github.com/baochi0212/LaVy)
 
 ### 53. (BLINK) BLINK: Multimodal Large Language Models Can See but Not Perceive
 **Date**: 2024.04.12
@@ -1548,7 +1548,7 @@ stimulate the community to help multimodal LLMs catch up with human-level
 visual perception.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.12390)
+[📄 Paper](https://arxiv.org/pdf/2404.12390) | [🌐 Project Page](https://zeyofu.github.io/blink/) | [💻 Code](https://github.com/zeyofu/BLINK_Benchmark)
 
 ### 54. (UNIAA) UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark
 **Date**: 2024.04.15
@@ -1608,7 +1608,7 @@ text-rich visual comprehension with MLLMs. The dataset and evaluation code can
 be accessed at https://github.com/AILab-CVC/SEED-Bench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.16790)
+[📄 Paper](https://arxiv.org/pdf/2404.16790) | [💻 Code](https://github.com/AILab-CVC/SEED-Bench)
 
 ### 56. (MileBENCH) MileBench: Benchmarking MLLMs in Long Context
 **Date**: 2024.04.18
@@ -1637,7 +1637,7 @@ towards enhancing MLLMs' long-context capabilities, especially in scenarios
 involving multiple images.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.18532)
+[📄 Paper](https://arxiv.org/pdf/2404.18532) | [🌐 Project Page](https://milebench.github.io/) | [💻 Code](https://github.com/MileBench/MileBench)
 
 ### 57. (ImplicitAVE) ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction
 **Date**: 2024.04.24
@@ -1664,7 +1664,7 @@ directions. Dataset and code are available at
 https://github.com/HenryPengZou/ImplicitAVE
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2404.15592)
+[📄 Paper](https://arxiv.org/abs/2404.15592) | [💻 Code](https://github.com/HenryPengZou/ImplicitAVE)
 
 ### 58. (MMT-Bench) MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI
 **Date**: 2024.04.25
@@ -1691,7 +1691,7 @@ will inspire the community to develop next-generation multimodal foundation
 models aimed at achieving general-purpose multimodal intelligence.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.16006)
+[📄 Paper](https://arxiv.org/pdf/2404.16006) | [🌐 Project Page](https://mmt-bench.github.io/) | [💻 Code](https://github.com/OpenGVLab/MMT-Bench)
 
 ### 59. (WorldNet) WorldGPT: Empowering LLM as Multimodal World Model
 **Date**: 2024.04.28
@@ -1721,7 +1721,7 @@ purposes. The project is available on
 \url{https://github.com/DCDmllm/WorldGPT}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.18202)
+[📄 Paper](https://arxiv.org/pdf/2404.18202) | [💻 Code](https://github.com/DCDmllm/WorldGPT)
 
 ### 60. (MTVQA) MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 **Date**: 2024.05.11
@@ -1755,7 +1755,7 @@ exploration in multilingual visual text comprehension. The project homepage is
 available at https://bytedance.github.io/MTVQA/.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.11985)
+[📄 Paper](https://arxiv.org/pdf/2405.11985) | [🌐 Project Page](https://bytedance.github.io/MTVQA/) | [💻 Code](https://github.com/bytedance/MTVQA)
 
 ### 61. (3DCoMPaT-GRIN) Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding
 **Date**: 2024.05.18
@@ -1790,7 +1790,7 @@ part-aware language comprehension and segmentation grounding of 3D objects.
 Project page at https://feielysia.github.io/Kestrel.github.io/
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.18937)
+[📄 Paper](https://arxiv.org/pdf/2405.18937) | [🌐 Project Page](https://feielysia.github.io/Kestrel.github.io/)
 
 ### 62. (MMUBench) Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models
 **Date**: 2024.05.21
@@ -1855,7 +1855,7 @@ improvements in handling longer sequences and multi-modal data. Project Page:
 https://video-mme.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.21075)
+[📄 Paper](https://arxiv.org/pdf/2405.21075) | [🌐 Project Page](https://video-mme.github.io) | [💻 Code](https://github.com/BradyFU/Video-MME)
 
 ### 64. (MMMB) Parrot: Multilingual Visual Instruction Tuning
 **Date**: 2024.06.02
@@ -1890,7 +1890,7 @@ Both the source code and the training dataset of Parrot will be made publicly
 available. Code is available at: https://github.com/AIDC-AI/Parrot.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.02539)
+[📄 Paper](https://arxiv.org/pdf/2406.02539) | [💻 Code](https://github.com/AIDC-AI/Parrot)
 
 ### 65. (IIT) Wings: Learning Multimodal LLMs without Text-only Forgetting
 **Date**: 2024.06.03
@@ -1948,7 +1948,7 @@ dimensions, establishing a strong benchmark for the follow-up research. Our
 resources are publicly released at https://haofei.vip/MUIE.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.03701)
+[📄 Paper](https://arxiv.org/pdf/2406.03701) | [🌐 Project Page](https://haofei.vip/MUIE) | [💻 Code](https://github.com/scofield7419/MUIE-REAMO)
 
 ### 67. (MLVU) MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding
 **Date**: 2024.06.04
@@ -1980,7 +1980,7 @@ anticipate that MLVU will advance the research of long video understanding by
 providing a comprehensive and in-depth analysis of MLLMs.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.04264)
+[📄 Paper](https://arxiv.org/pdf/2406.04264) | [💻 Code](https://github.com/JUNJIE99/MLVU)
 
 ### 68. (II-Bench) II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models
 **Date**: 2024.06.05
@@ -2010,7 +2010,7 @@ towards expert artificial general intelligence (AGI). II-Bench is publicly
 available at https://huggingface.co/datasets/m-a-p/II-Bench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.05862)
+[📄 Paper](https://arxiv.org/pdf/2406.05862) | [🌐 Project Page](https://ii-bench.github.io/) | [💻 Code](https://github.com/II-Bench/II-Bench)
 
 ### 69. (CVQA) CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark
 **Date**: 2024.06.05
@@ -2041,7 +2041,7 @@ models and hopefully encourage more research efforts toward increasing cultural
 awareness and linguistic diversity in this field.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.05967)
+[📄 Paper](https://arxiv.org/pdf/2406.05967) | [🌐 Project Page](https://cvqa-benchmark.org/)
 
 ### 70. (M3GIA) M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark
 **Date**: 2024.06.05
@@ -2100,7 +2100,7 @@ contribute to the advancement of MLLMs. Code and benchmark are released at
 https://github.com/OpenGVLab/MM-NIAH.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.07230)
+[📄 Paper](https://arxiv.org/pdf/2406.07230) | [💻 Code](https://github.com/OpenGVLab/MM-NIAH)
 
 ### 72. (IT) Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions
 **Date**: 2024.06.07
@@ -2130,7 +2130,7 @@ capability to generate richer image descriptions, substantially increasing the
 length and detail of their output with less hallucination.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.07502)
+[📄 Paper](https://arxiv.org/pdf/2406.07502) | [💻 Code](https://github.com/sterzhang/image-textualization)
 
 ### 73. (VideoNIAH) Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs
 **Date**: 2024.06.09
@@ -2164,7 +2164,7 @@ benchmark works. The code and data are available at
 https://github.com/joez17/VideoNIAH.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.09367)
+[📄 Paper](https://arxiv.org/pdf/2406.09367) | [💻 Code](https://github.com/joez17/VideoNIAH)
 
 ### 74. (VEGA) VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models
 **Date**: 2024.06.10
@@ -2195,7 +2195,7 @@ of our dataset in improving MLLMs capabilities for nuanced image-text
 comprehension.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.10228)
+[📄 Paper](https://arxiv.org/pdf/2406.10228) | [🌐 Project Page](https://zhourax.github.io/VEGA/) | [💻 Code](https://github.com/zhourax/VEGA)
 
 ### 75. (LLaNA) LLaNA: Large Language and NeRF Assistant
 **Date**: 2024.06.11
@@ -2222,7 +2222,7 @@ NeRF weights performs favourably against extracting 2D or 3D representations
 from NeRFs.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.11840)
+[📄 Paper](https://arxiv.org/pdf/2406.11840) | [🌐 Project Page](https://andreamaduzzi.github.io/llana/)
 
 ### 76. (MMNeedle) Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models
 **Date**: 2024.06.11
@@ -2253,7 +2253,7 @@ code, data, and instructions required to reproduce the main results are
 available at https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.11230)
+[📄 Paper](https://arxiv.org/pdf/2406.11230) | [💻 Code](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
 
 ### 77. (MuirBench) MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding
 **Date**: 2024.06.13
@@ -2278,7 +2278,7 @@ multimodal LLMs that can look beyond a single image, suggesting potential
 pathways for future improvements.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.09411)
+[📄 Paper](https://arxiv.org/abs/2406.09411) | [🌐 Project Page](https://muirbench.github.io/) | [💻 Code](https://github.com/muirbench/MuirBench)
 
 ### 78. (ADLMCQ) LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living
 **Date**: 2024.06.14
@@ -2303,7 +2303,7 @@ capabilities in understanding ADL. The link to the dataset is provided at:
 https://adl-x.github.io/
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.09390)
+[📄 Paper](https://arxiv.org/pdf/2406.09390) | [🌐 Project Page](https://adl-x.github.io/) | [💻 Code](https://github.com/ADL-X/LLAVIDAL)
 
 ### 79. (Event-Bench) Towards Event-oriented Long Video Understanding
 **Date**: 2024.06.14
@@ -2331,7 +2331,7 @@ Event-Bench. All code, data, and models are publicly available at
 https://github.com/RUCAIBox/Event-Bench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.14129)
+[📄 Paper](https://arxiv.org/pdf/2406.14129) | [💻 Code](https://github.com/RUCAIBox/Event-Bench)
 
 ### 80. (CV-Bench) Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 **Date**: 2024.06.16
@@ -2363,7 +2363,7 @@ evaluation recipes. We hope our release will inspire and accelerate
 advancements in multimodal systems and visual representation learning.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.16860)
+[📄 Paper](https://arxiv.org/abs/2406.16860) | [🌐 Project Page](https://cambrian-mllm.github.io/) | [💻 Code](https://github.com/cambrian-mllm/cambrian)
 
 ### 81. (EmoBench) EmoLLM: Multimodal Emotional Understanding Meets Large Language Models
 **Date**: 2024.06.16
@@ -2394,7 +2394,7 @@ human-computer interaction, mental health support, and empathetic AI systems.
 Code, data, and model will be released.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.16442)
+[📄 Paper](https://arxiv.org/pdf/2406.16442) | [💻 Code](https://github.com/yan9qu/EmoLLM)
 
 ### 82. (DenseFusion-1M) DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
 **Date**: 2024.07.08
@@ -2426,7 +2426,7 @@ high-resolution images as inputs. The dataset and code are publicly available
 at https://github.com/baaivision/DenseFusion.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.08303)
+[📄 Paper](https://arxiv.org/pdf/2407.08303) | [💻 Code](https://github.com/baaivision/DenseFusion)
 
 ### 83. (MuChoMusic) MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models
 **Date**: 2024.08.02
@@ -2454,7 +2454,7 @@ over-reliance on the language modality, pointing to a need for better
 multimodal integration. Data and code are open-sourced.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2408.01337)
+[📄 Paper](https://arxiv.org/pdf/2408.01337) | [🌐 Project Page](https://mulab-mir.github.io/muchomusic/) | [💻 Code](https://github.com/mulab-mir/muchomusic)
 
 ### 84. (UniBench) UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling
 **Date**: 2024.08.04
@@ -2486,7 +2486,7 @@ a distilled, representative set of benchmarks that runs in 5 minutes on a
 single GPU.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2408.04810)
+[📄 Paper](https://arxiv.org/abs/2408.04810) | [💻 Code](https://github.com/facebookresearch/unibench)
 
 
 ### 85. (MMIU) MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models 
@@ -6102,3 +6102,4 @@ are available at \url{https://github.com/THUDM/VisualAgentBench}.
 [📄 Paper](https://arxiv.org/pdf/2408.06327v1)
 
 
+![image](https://github.com/user-attachments/assets/daef3a73-6dd3-44a0-bc28-6e3fbf5f7837)
