@@ -3863,8 +3863,8 @@ GPT-4 generated visual instruction tuning data, our model and code base
 publicly available.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2304.08485)
-
+[📄 Paper](https://arxiv.org/abs/2304.08485) | [🌐 Project Page](https://llava-vl.github.io/) | [💻 Code](https://github.com/haotian-liu/LLaVA)
+ 
 ### 2. (POPE) Evaluating Object Hallucination in Large Vision-Language Models
 **Date**: 2023.05.10
 
@@ -3891,7 +3891,7 @@ POPE can evaluate the object hallucination in a more stable and flexible way.
 Our codes and data are publicly available at https://github.com/RUCAIBox/POPE.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2305.10355)
+[📄 Paper](https://arxiv.org/pdf/2305.10355) | [💻 Code](https://github.com/RUCAIBox/POPE)
 
 ### 3. (LRV-Instruction) Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning
 **Date**: 2023.06.14
@@ -3926,7 +3926,7 @@ instances in the training data leads to a more robust model. Code and data are
 available at https://github.com/FuxiaoLiu/LRV-Instruction.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.14565)
+[📄 Paper](https://arxiv.org/abs/2306.14565) | [💻 Code](https://github.com/FuxiaoLiu/LRV-Instruction)
 
 ### 4. (StorySalon) Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models
 **Date**: 2023.07.01
@@ -3954,7 +3954,7 @@ coherent content and consistent character. Code, dataset, and models are
 available at https://haoningwu3639.github.io/StoryGen_Webpage/
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.00973)
+[📄 Paper](https://arxiv.org/abs/2306.00973) | [🌐 Project Page](https://haoningwu3639.github.io/StoryGen_Webpage) | [💻 Code](https://github.com/haoningwu3639/StoryGen)
 
 ### 5. (M-HalDetect) Detecting and Preventing Hallucinations in Large Vision Language Models
 **Date**: 2023.08.06
@@ -3987,7 +3987,7 @@ hallucinations in LLaVA and mPLUG-OWL by 15% and 57% respectively, and has
 strong correlation with human evaluated accuracy scores.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2308.06394)
+[📄 Paper](https://arxiv.org/abs/2308.06394) | [💻 Code](https://github.com/hendryx-scale/mhal-detect)
 
 ### 6. (DEMON) Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions
 **Date**: 2023.08.08
@@ -4019,7 +4019,7 @@ code, and pre-trained models are available at
 https://github.com/DCDmllm/Cheetah.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2308.04152)
+[📄 Paper](https://arxiv.org/pdf/2308.04152) | [💻 Code](https://github.com/DCDmllm/Cheetah)
 
 ### 7. (VisIT-Bench) VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use
 **Date**: 2023.08.12
@@ -4047,7 +4047,7 @@ practitioners simply submit their model's response on the project website;
 Data, code and leaderboard is available at visit-bench.github.io.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2308.06595)
+[📄 Paper](https://arxiv.org/pdf/2308.06595) | [🌐 Project Page](visit-bench.github.io) | [💻 Code](https://github.com/mlfoundations/VisIT-Bench/)
 
 ### 8. (HaELM) Evaluation and Analysis of Hallucination in Large Vision-Language Models
 **Date**: 2023.08.29
@@ -4071,7 +4071,7 @@ suggestions to mitigate the hallucination problem. Our training data and human
 annotation hallucination data will be made public soon.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2308.15126)
+[📄 Paper](https://arxiv.org/pdf/2308.15126) | [💻 Code](https://github.com/junyangwang0410/HaELM)
 
 ### 9. (MMHAL-BENCH) Aligning Large Multimodal Models with Factually Augmented RLHF
 **Date**: 2023.09.25
@@ -4102,7 +4102,7 @@ level of the text-only GPT-4 (while previous best methods can only achieve the
 opensource our code, model, data at https://llava-rlhf.github.io.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2309.14525)
+[📄 Paper](https://arxiv.org/abs/2309.14525) | [🌐 Project Page](https://llava-rlhf.github.io) | [💻 Code](https://github.com/llava-rlhf/LLaVA-RLHF)
 
 ### 10. (NOPE) Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models
 **Date**: 2023.10.09
@@ -4187,7 +4187,7 @@ their future improvement. The benchmark and codebase can be accessed at
 https://github.com/tianyi-lab/HallusionBench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2310.14566)
+[📄 Paper](https://arxiv.org/pdf/2310.14566) | [💻 Code](https://github.com/tianyi-lab/HallusionBench)
 
 ### 13. (Bingo) Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges
 **Date**: 2023.11.03
@@ -4217,7 +4217,7 @@ and state-of-the-art visual-language models, and highlight the need for new
 solutions. The Bingo benchmark is available at https://github.com/gzcch/Bingo.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.03287)
+[📄 Paper](https://arxiv.org/pdf/2311.03287) | [💻 Code](https://github.com/gzcch/Bingo)
 
 ### 14. (AMBER) AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation
 **Date**: 2023.11.13
@@ -4241,7 +4241,7 @@ and also give guideline suggestions for mitigating hallucinations. The data and
 code of AMBER are available at https://github.com/junyangwang0410/AMBER.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.07397)
+[📄 Paper](https://arxiv.org/pdf/2311.07397) | [💻 Code](https://github.com/junyangwang0410/AMBER)
 
 ### 15. (MM-SafetyBench) MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models
 **Date**: 2023.11.29
@@ -4267,7 +4267,7 @@ MLLMs against potential malicious exploits. The resource is available at
 https://github.com/isXinLiu/MM-SafetyBench
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.17600)
+[📄 Paper](https://arxiv.org/pdf/2311.17600) | [💻 Code](https://github.com/isXinLiu/MM-SafetyBench)
 
 ### 16. (BenchLMM) BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models
 **Date**: 2023.12.05
@@ -4293,7 +4293,7 @@ that our benchmark and analysis can shed new light on developing more
 intelligent and versatile LMMs.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2312.02896)
+[📄 Paper](https://arxiv.org/pdf/2312.02896) | [💻 Code](https://github.com/AIFEG/BenchLMM)
 
 ### 17. (MMCBench) Benchmarking Large Multimodal Models against Common Corruptions
 **Date**: 2024.01.11
@@ -4314,7 +4314,7 @@ cutting-edge LMMs. The benchmarking code is available at
 https://github.com/sail-sg/MMCBench
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.11943)
+[📄 Paper](https://arxiv.org/pdf/2401.11943) | [💻 Code](https://github.com/sail-sg/MMCBench)
 
 ### 18. (RTVLM) Red Teaming Visual Language Models
 **Date**: 2024.01.24
@@ -4342,7 +4342,7 @@ that current open-sourced VLMs still lack red teaming alignment. Our code and
 datasets will be open-source.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2401.12915)
+[📄 Paper](https://arxiv.org/pdf/2401.12915) | [🌐 Project Page](https://huggingface.co/datasets/MMInstruction/RedTeamingVLM)
 
 ### 19. (MHaluBench) Unified Hallucination Detection for Multimodal Large Language Models
 **Date**: 2024.02.05
@@ -4368,7 +4368,7 @@ strategic insights on the application of specific tools for addressing various
 categories of hallucinations.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.03190)
+[📄 Paper](https://arxiv.org/pdf/2402.03190) | [🌐 Project Page](https://www.zjukg.org/project/EasyDetect/) | [💻 Code](https://github.com/OpenKG-ORG/EasyDetect)
 
 ### 20. (CorrelationQA) The Instinctive Bias: Spurious Images lead to Illusion in MLLMs
 **Date**: 2024.02.06
@@ -4394,7 +4394,7 @@ presence of misleading images. The code and datasets are available at
 https://github.com/MasaiahHan/CorrelationQA.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.03757)
+[📄 Paper](https://arxiv.org/pdf/2402.03757) | [💻 Code](https://github.com/MasaiahHan/CorrelationQA)
 
 ### 21. (SHIELD) SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models
 **Date**: 2024.02.07
@@ -4430,7 +4430,7 @@ proposed MA-COT. The project is available at
 https$:$//github.com/laiyingxin2/SHIELD
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.04178)
+[📄 Paper](https://arxiv.org/pdf/2402.04178) | [💻 Code](https://github.com/laiyingxin2/SHIELD)
 
 ### 22. (VQAv2-IDK) Visually Dehallucinative Instruction Generation: Know What You Don't Know
 **Date**: 2024.02.15
@@ -4505,7 +4505,7 @@ hallucinate without sacrificing its performance on other benchmarks. Our
 benchmarks are publicly available: https://github.com/wenhuang2000/VHTest.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.14683)
+[📄 Paper](https://arxiv.org/pdf/2402.14683) | [💻 Code](https://github.com/wenhuang2000/VHTest)
 
 ### 25. (MMECeption) GenCeption: Evaluate Multimodal LLMs with Unlabeled Unimodal Data
 **Date**: 2024.02.23
@@ -4532,7 +4532,7 @@ benchmarks. VLLMs still significantly lack behind human performance and
 struggle especially with text-intensive tasks.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2402.14973)
+[📄 Paper](https://arxiv.org/pdf/2402.14973) | [💻 Code](https://github.com/llcresearch/GenCeption)
 
 ### 26. (CoIN) CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model
 **Date**: 2024.03.13
@@ -4559,7 +4559,7 @@ instruction alignment. Experimental results consistently illustrate the
 forgetting decreased from this method on CoIN.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2403.08350)
+[📄 Paper](https://arxiv.org/pdf/2403.08350) | [💻 Code](https://github.com/zackschen/CoIN)
 
 ### 27. (JailBreakV-28K) JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks
 **Date**: 2024.04.04
@@ -4587,7 +4587,7 @@ urgent need for future research to address alignment vulnerabilities in MLLMs
 from both textual and visual inputs.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.03027)
+[📄 Paper](https://arxiv.org/pdf/2404.03027) | [🌐 Project Page](https://eddyluo1232.github.io/JailBreakV28K/) | [💻 Code](https://github.com/EddyLuo1232/JailBreakV_28K)
 
 ### 28. (Plot2Code) Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots
 **Date**: 2024.05.07
@@ -4620,7 +4620,7 @@ MLLMs. All data involved with Plot2Code are available at
 https://huggingface.co/datasets/TencentARC/Plot2Code.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.07990)
+[📄 Paper](https://arxiv.org/pdf/2405.07990) | [💻 Code](https://github.com/TencentARC/Plot2Code)
 
 ### 29. (THRONE) THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models
 **Date**: 2024.05.08
@@ -4679,7 +4679,7 @@ general benchmarks, as well as our MRHal-Bench, demonstrate the effectiveness
 of our proposed method. Code is available at https://github.com/takomc/amp.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.11165)
+[📄 Paper](https://arxiv.org/pdf/2405.11165) | [💻 Code](https://github.com/takomc/amp)
 
 ### 31. (MetaToken) MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification
 **Date**: 2024.05.29
@@ -4734,7 +4734,7 @@ facilitate future advancements in this important field. Code and resources are
 publicly available at: https://multi-trust.github.io/.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.07057)
+[📄 Paper](https://arxiv.org/pdf/2406.07057) | [🌐 Project Page](https://multi-trust.github.io/) | [💻 Code](https://github.com/thu-ml/MMTrustEval)
 
 ### 33. (MLLMGuard) MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models
 **Date**: 2024.06.07
@@ -4767,7 +4767,7 @@ results across 13 advanced models indicate that MLLMs still have a substantial
 journey ahead before they can be considered safe and responsible.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.07594)
+[📄 Paper](https://arxiv.org/pdf/2406.07594) | [💻 Code](https://github.com/Carol-gutianle/MLLMGuard)
 
 ### 34. (CoMM) CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation
 **Date**: 2024.06.10
@@ -4798,7 +4798,7 @@ believe CoMM opens a new avenue for advanced MLLMs with superior multimodal
 in-context learning and understanding ability.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.10462)
+[📄 Paper](https://arxiv.org/pdf/2406.10462) | [💻 Code](https://github.com/HKUST-LongGroup/CoMM)
 
 ### 35. (MMR) Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions
 **Date**: 2024.06.10
@@ -4827,7 +4827,7 @@ tuning on this new training set. The benchmark, training set, and code can be
 found at https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.10638)
+[📄 Paper](https://arxiv.org/pdf/2406.10638) | [💻 Code](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark)
 
 ### 36. (MTruthfulQA) Towards Truthful Multilingual Large Language Models: Benchmarking and Alignment Strategies
 **Date**: 2024.06.14
@@ -4945,7 +4945,7 @@ development of our self-PEP framework, achieving an average of 5.38%
 improvement in hallucination resistance across all model architectures.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.16338)
+[📄 Paper](https://arxiv.org/pdf/2406.16338) | [🌐 Project Page](https://videohallucer.github.io/) | [💻 Code](https://github.com/patrick-tssn/VideoHallucer)
 
 ### 40. (MM-SpuBench) MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs
 **Date**: 2024.06.17
@@ -4975,7 +4975,7 @@ research, we release our VQA benchmark at
 https://huggingface.co/datasets/mmbench/MM-SpuBench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.17126)
+[📄 Paper](https://arxiv.org/pdf/2406.17126) | [🌐 Project Page](https://huggingface.co/datasets/mmbench/MM-SpuBench)
 
 ### 41. (MOSSBench) MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?
 **Date**: 2024.06.17
@@ -5008,7 +5008,7 @@ applications. We make our project available at
 https://turningpoint-ai.github.io/MOSSBench/.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.17806)
+[📄 Paper](https://arxiv.org/pdf/2406.17806) | [🌐 Project Page](https://turningpoint-ai.github.io/MOSSBench/) | [💻 Code](https://github.com/xirui-li/MOSSBench)
 
 ### 42. (MFC-Bench) MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models
 **Date**: 2024.06.17
@@ -5034,7 +5034,7 @@ https://github.com/wskbest/MFC-Bench, contributing to ongoing research in the
 multimodal fact-checking field.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.11288)
+[📄 Paper](https://arxiv.org/abs/2406.11288) | [💻 Code](https://github.com/wskbest/MFC-Bench)
 
 ### 43. (VGA) VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning
 **Date**: 2024.06.20
@@ -5093,7 +5093,7 @@ and task automation. Our data and code will be available at
 https://github.com/MBZUAI-LLM/web2code.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.20098)
+[📄 Paper](https://arxiv.org/pdf/2406.20098) | [💻 Code](https://github.com/MBZUAI-LLM/web2code)
 
 ### 45. (HQH) Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models
 **Date**: 2024.06.24
@@ -5122,7 +5122,7 @@ provide an in-depth analysis of the hallucination issues in existing models.
 Our benchmark is publicly available at https://github.com/HQHBench/HQHBench.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.17115)
+[📄 Paper](https://arxiv.org/abs/2406.17115) | [💻 Code](https://github.com/HQHBench/HQHBench)
 
 ### 46. (MIA-Bench) MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs
 **Date**: 2024.07.01
@@ -5173,7 +5173,7 @@ quantitatively evaluating the task of multimodal story generation in various
 aspects.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.08683)
+[📄 Paper](https://arxiv.org/pdf/2407.08683) | [💻 Code](https://github.com/TencentARC/SEED-Story)
 
 ### 48. (ROPE) Multi-Object Hallucination in Vision-Language Models
 **Date**: 2024.07.08
@@ -5202,7 +5202,7 @@ objects that often occur in realistic visual scenes, provide insights, and
 quantify our progress towards mitigating the issues.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2407.06192v1)
+[📄 Paper](https://arxiv.org/abs/2407.06192v1) | [🌐 Project Page](https://multi-object-hallucination.github.io/) | [💻 Code](https://github.com/sled-group/moh)
 
 ### 49. (BEAF) BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models
 **Date**: 2024.07.18
@@ -5233,7 +5233,7 @@ VLM hallucination that have not been reported before. Project page:
 \url{https://beafbench.github.io/}
 </details>
 
-[📄 Paper](https://arxiv.org/html/2407.13442v1)
+[📄 Paper](https://arxiv.org/html/2407.13442v1) | [🌐 Project Page](https://beafbench.github.io/) | [💻 Code](https://github.com/postech-ami/BEAF?tab=readme-ov-file)
 
 ### 50. (HaloQuest) HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning
 **Date**: 2024.07.22
@@ -5264,7 +5264,7 @@ understanding, evaluating, and mitigating hallucination in VLMs, serving as an
 important step towards more reliable multimodal AI systems in the future.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2407.15680)
+[📄 Paper](https://arxiv.org/abs/2407.15680) | [💻 Code](https://github.com/google/haloquest)
 
 ### 51. (Hallu-PI) Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs
 **Date**: 2024.08.02
@@ -5298,7 +5298,7 @@ this issue. Our code and datasets are publicly available at
 https://github.com/NJUNLP/Hallu-PI.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2408.01355)
+[📄 Paper](https://arxiv.org/abs/2408.01355) | [💻 Code](https://github.com/NJUNLP/Hallu-PI)
 
 ### 52. (Reefknot) Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models
 **Date**: 2024.08.18
