@@ -6100,6 +6100,3 @@ are available at \url{https://github.com/THUDM/VisualAgentBench}.
 </details>
 
 [📄 Paper](https://arxiv.org/pdf/2408.06327v1)
-
-
-![image](https://github.com/user-attachments/assets/daef3a73-6dd3-44a0-bc28-6e3fbf5f7837)
