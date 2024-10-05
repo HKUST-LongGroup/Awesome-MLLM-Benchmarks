@@ -2558,7 +2558,7 @@ multilingual and multimodal abilities and tracking their development. Data and
 evaluation code is available at \url{https://github.com/DAMO-NLP-SG/M3Exam}.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2306.05179)
+[📄 Paper](https://arxiv.org/abs/2306.05179) | [💻 Code](https://github.com/DAMO-NLP-SG/M3Exam)
 
 ### 3. (SciGraphQA) SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs
 **Date**: 2023.08.07
@@ -2623,7 +2623,7 @@ chatbot capabilities of GPT-4V, highlighting its promising potential for future
 research. The project is available at https://mathvista.github.io/.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2310.02255)
+[📄 Paper](https://arxiv.org/abs/2310.02255) | [🌐 Project Page](https://mathvista.github.io/) | [💻 Code](https://github.com/lupantech/MathVista)
 
 ### 5. (MMEdit) Can We Edit Multimodal Large Language Models?
 **Date**: 2023.10.08
@@ -2645,7 +2645,7 @@ We hope that our work can provide the NLP community with insights. Code and
 dataset are available in https://github.com/zjunlp/EasyEdit.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2310.08475)
+[📄 Paper](https://arxiv.org/abs/2310.08475) | [💻 Code](https://github.com/zjunlp/EasyEdit)
 
 ### 6. (What’sUp) What's "up" with vision-language models? Investigating their struggle with spatial reasoning
 **Date**: 2023.10.30
@@ -2672,7 +2672,7 @@ these corpora will facilitate further research, and we release our data and
 code at https://github.com/amitakamath/whatsup_vlms.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2310.19785)
+[📄 Paper](https://arxiv.org/abs/2310.19785) | [💻 Code](https://github.com/amitakamath/whatsup_vlms)
 
 ### 7. (ViLMA) ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models
 **Date**: 2023.11.13
@@ -2699,7 +2699,7 @@ as a catalyst for future research on VidLMs, helping to highlight areas that
 still need to be explored.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.07022)
+[📄 Paper](https://arxiv.org/pdf/2311.07022) | [🌐 Project Page](https://cyberiada.github.io/ViLMA/) | [💻 Code](https://github.com/ilkerkesen/ViLMA)
 
 ### 8. (MMC-Benchmark) MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning
 **Date**: 2023.11.15
@@ -2726,7 +2726,7 @@ methodology and benchmark to advance multimodal understanding of charts. Code
 and data are available at https://github.com/FuxiaoLiu/MMC.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2311.10774)
+[📄 Paper](https://arxiv.org/abs/2311.10774) | [💻 Code](https://github.com/FuxiaoLiu/MMC)
 
 ### 9. (ChartingNewTerritories) Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs
 **Date**: 2023.11.25
@@ -2750,7 +2750,7 @@ geographic domain. To enable the comparison and evaluation of future models,
 our benchmark will be publicly released.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2311.14656)
+[📄 Paper](https://arxiv.org/pdf/2311.14656) | [💻 Code](https://github.com/jonathan-roberts1/charting-new-territories)
 
 ### 10. (ChartBench) ChartBench: A Benchmark for Complex Visual Reasoning in Charts
 **Date**: 2023.12.26
@@ -2777,7 +2777,7 @@ insights for further research. Code and dataset are publicly available at
 https://chartbench.github.io.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2312.15915)
+[📄 Paper](https://arxiv.org/abs/2312.15915) | [🌐 Project Page](https://chartbench.github.io/) | [💻 Code](https://github.com/IDEA-FinAI/ChartBench)
 
 ### 11. (CMMMU) CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark
 **Date**: 2024.01.22
@@ -2807,7 +2807,7 @@ intelligence and promote the democratization of LMMs by providing diverse
 language contexts.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2401.11944)
+[📄 Paper](https://arxiv.org/abs/2401.11944) | [🌐 Project Page](https://cmmmu-benchmark.github.io/) | [💻 Code](https://github.com/CMMMU-Benchmark/CMMMU)
 
 ### 12. (CMMU) CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning
 **Date**: 2024.01.25
@@ -2835,7 +2835,7 @@ significant challenge to the recent MLLMs. The data and code are available at
 https://github.com/FlagOpen/CMMU.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2401.14011)
+[📄 Paper](https://arxiv.org/abs/2401.14011) | [💻 Code](https://github.com/FlagOpen/CMMU)
 
 ### 13. (MULTI) MULTI: Multimodal Understanding Leaderboard with Text and Images
 **Date**: 2024.02.03
@@ -2861,7 +2861,7 @@ not only as a robust evaluation platform but also paves the way for the
 development of expert-level AI.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.03173)
+[📄 Paper](https://arxiv.org/abs/2402.03173) | [🌐 Project Page](https://opendfm.github.io/MULTI-Benchmark/) | [💻 Code](https://github.com/OpenDFM/MULTI-Benchmark)
 
 ### 14. (SceMQA) SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark
 **Date**: 2024.02.06
@@ -2887,7 +2887,7 @@ accuracy achieved by the strongest models. Our benchmark and analysis will be
 available at https://scemqa.github.io/
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.05138)
+[📄 Paper](https://arxiv.org/abs/2402.05138) | [🌐 Project Page](https://scemqa.github.io/) | [💻 Code](https://github.com/SceMQA/SceMQA)
 
 ### 15. (MIKE) MIKE: A New Benchmark for Fine-grained Multimodal Entity Knowledge Editing
 **Date**: 2024.02.18
@@ -2941,7 +2941,7 @@ ChartX and ChartVLM are available at:
 https://github.com/UniModal4Reasoning/ChartVLM
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.12185)
+[📄 Paper](https://arxiv.org/abs/2402.12185) | [💻 Code](https://github.com/UniModal4Reasoning/ChartVLM)
 
 ### 17. (Math-Vision) Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset
 **Date**: 2024.02.22
@@ -2967,7 +2967,7 @@ research and development. The project is available at
 https://mathvision-cuhk.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.14804)
+[📄 Paper](https://arxiv.org/abs/2402.14804) | [🌐 Project Page](https://mathvision-cuhk.github.io) | [💻 Code](https://github.com/mathvision-cuhk/MATH-V)
 
 ### 18. (CRPE) The All-Seeing Project V2: Towards General Relation Comprehension of the Open World
 **Date**: 2024.02.29
@@ -2995,7 +2995,7 @@ towards artificial general intelligence. Our project is released at
 https://github.com/OpenGVLab/all-seeing.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2402.19474)
+[📄 Paper](https://arxiv.org/abs/2402.19474) | [💻 Code](https://github.com/OpenGVLab/all-seeing)
 
 ### 19. (NPHardEval4V) NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models
 **Date**: 2024.03.04
@@ -3025,7 +3025,7 @@ MLLMs. The benchmark dataset and code are available at
 https://github.com/lizhouf/NPHardEval4V
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.01777)
+[📄 Paper](https://arxiv.org/abs/2403.01777) | [💻 Code](https://github.com/lizhouf/NPHardEval4V)
 
 ### 20. (VLKEB) VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark
 **Date**: 2024.03.12
@@ -3053,7 +3053,7 @@ future research. The codes and dataset are available at:
 $\href{https://github.com/VLKEB/VLKEB}{\text{https://github.com/VLKEB/VLKEB}}$.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.07350)
+[📄 Paper](https://arxiv.org/abs/2403.07350) | [💻 Code](https://github.com/VLKEB/VLKEB)
 
 ### 21. (MathVerse) MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?
 **Date**: 2024.03.21
@@ -3084,7 +3084,7 @@ may provide unique insights to guide the future development of MLLMs. Project
 page: https://mathverse-cuhk.github.io
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2403.14624v2)
+[📄 Paper](https://arxiv.org/abs/2403.14624v2) | [🌐 Project Page](https://mathverse-cuhk.github.io) | [💻 Code](https://github.com/ZrrSkywalker/MathVerse)
 
 ### 22. (Visual CoT) Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
 **Date**: 2024.03.25
@@ -3110,7 +3110,7 @@ dataset, benchmark, and pre-trained models are released to foster further
 research in this direction.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2403.16999)
+[📄 Paper](https://arxiv.org/pdf/2403.16999) | [💻 Code](https://github.com/deepcs233/Visual-CoT)
 
 ### 23. (VisualWebBench) VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?
 **Date**: 2024.04.09
@@ -3136,7 +3136,7 @@ resource for the research community and contribute to the creation of more
 powerful and versatile MLLMs for web-related applications.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.05955)
+[📄 Paper](https://arxiv.org/pdf/2404.05955) | [🌐 Project Page](https://visualwebbench.github.io/) | [💻 Code](https://github.com/VisualWebBench/VisualWebBench)
 
 ### 24. (CFMM) Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models
 **Date**: 2024.04.19
@@ -3200,7 +3200,7 @@ are available at
 \href{https://github.com/naver-ai/tablevqabench}{https://github.com/naver-ai/tablevqabench}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2404.19205)
+[📄 Paper](https://arxiv.org/pdf/2404.19205) | [💻 Code](https://github.com/naver-ai/tablevqabench)
 
 ### 26. (MARVEL) MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning
 **Date**: 2024.04.21
@@ -3232,7 +3232,7 @@ hindering their ability for abstract reasoning. We release our entire code and
 dataset.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2404.13591)
+[📄 Paper](https://arxiv.org/abs/2404.13591) | [💻 Code](https://github.com/1171-jpg/MARVEL_AVR)
 
 ### 27. (SOK-Bench) SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge
 **Date**: 2024.05.09
@@ -3265,7 +3265,7 @@ conclusions. For more information, please refer to our benchmark at
 www.bobbywu.com/SOKBench.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.09713)
+[📄 Paper](https://arxiv.org/pdf/2405.09713) | [🌐 Project Page](https://bobbywu.com/SOKBench/) | [💻 Code](https://github.com/csbobby/SOK-Bench)
 
 ### 28. (EvalQABench) LOVA3: Learning to Visual Question Answering, Asking and Assessment
 **Date**: 2024.05.14
@@ -3295,7 +3295,7 @@ demonstrate consistent performance improvements, thereby confirming the
 efficacy of our approach.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2405.14974)
+[📄 Paper](https://arxiv.org/pdf/2405.14974) | [💻 Code](https://github.com/showlab/LOVA3)
 
 ### 29. (SpatialRGPT-Bench) SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model
 **Date**: 2024.06.03
@@ -3324,7 +3324,7 @@ dataset, and benchmark will be released at
 https://www.anjiecheng.me/SpatialRGPT
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2406.01584)
+[📄 Paper](https://arxiv.org/abs/2406.01584) | [🌐 Project Page](https://www.anjiecheng.me/SpatialRGPT)
 
 ### 30. (MMTab) Multimodal Table Understanding
 **Date**: 2024.06.08
@@ -3351,7 +3351,7 @@ and held-out settings. The code and data is available at this
 https://github.com/SpursGoZmy/Table-LLaVA
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.08100)
+[📄 Paper](https://arxiv.org/pdf/2406.08100) | [💻 Code](https://github.com/SpursGoZmy/Table-LLaVA)
 
 ### 31. (MMWorld) MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos
 **Date**: 2024.06.08
@@ -3381,7 +3381,7 @@ such as models' different skill sets from humans. We hope MMWorld can serve as
 an essential step towards world model evaluation in videos.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.08407)
+[📄 Paper](https://arxiv.org/pdf/2406.08407) | [🌐 Project Page](https://mmworld-bench.github.io/) | [💻 Code](https://github.com/eric-ai-lab/MMWorld)
 
 ### 32. (MMRel) MMRel: A Relation Understanding Dataset and Benchmark in the MLLM Era
 **Date**: 2024.06.09
@@ -3411,7 +3411,7 @@ popular MLLMs validate the effectiveness of MMRel. Both MMRel dataset and the
 complete labeling scripts have been made publicly available.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.09121)
+[📄 Paper](https://arxiv.org/pdf/2406.09121) | [💻 Code](https://github.com/niejiahao1998/MMRel)
 
 ### 33. (VCog-Bench) What is the Visual Cognition Gap between Humans and Multimodal LLMs?
 **Date**: 2024.06.10
@@ -3439,7 +3439,7 @@ pipeline will drive progress toward the next generation of MLLMs with
 human-like visual cognition abilities.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.10424)
+[📄 Paper](https://arxiv.org/pdf/2406.10424) | [💻 Code](https://github.com/IrohXu/VCog-Bench)
 
 ### 34. (GSR-Bench) GSR-BENCH: A Benchmark for Grounded Spatial Reasoning Evaluation via Multimodal LLMs
 **Date**: 2024.06.13
@@ -3514,7 +3514,7 @@ advancing MLLMs' mathematical reasoning abilities. The code and data are
 available at: \url{https://github.com/HZQ950419/Math-LLaVA}.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.17294)
+[📄 Paper](https://arxiv.org/pdf/2406.17294) | [💻 Code](https://github.com/HZQ950419/Math-LLaVA)
 
 ### 37. (CharXiv) CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs
 **Date**: 2024.06.18
@@ -3546,7 +3546,7 @@ realistic and faithful measure of progress. Project page and leaderboard:
 https://charxiv.github.io/
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.18521)
+[📄 Paper](https://arxiv.org/pdf/2406.18521) | [🌐 Project Page](https://charxiv.github.io/) | [💻 Code](https://github.com/princeton-nlp/CharXiv)
 
 ### 38. (REXTIME) ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos
 **Date**: 2024.06.19
@@ -3572,7 +3572,7 @@ generated samples without manual effort, which empirical studies suggest can
 enhance the across-time reasoning via fine-tuning.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2406.19392)
+[📄 Paper](https://arxiv.org/pdf/2406.19392) | [🌐 Project Page](https://rextime.github.io/) | [💻 Code](https://github.com/ReXTime/ReXTime)
 
 ### 39. (ScanReason) ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities
 **Date**: 2024.07.01
@@ -3595,7 +3595,7 @@ grounding steps during inference. Extensive experiments on the proposed
 benchmark validate the effectiveness of our proposed approach.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2407.01525)
+[📄 Paper](https://arxiv.org/abs/2407.01525) | [🌐 Project Page](https://zcmax.github.io/projects/ScanReason/) | [💻 Code](https://github.com/ZCMax/ScanReason)
 
 ### 40. (MindBench) MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis
 **Date**: 2024.07.03
@@ -3623,7 +3623,7 @@ technology. MindBench is available at:
 https://miasanlei.github.io/MindBench.github.io/.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2407.02842)
+[📄 Paper](https://arxiv.org/abs/2407.02842) | [🌐 Project Page](https://miasanlei.github.io/MindBench.github.io/) | [💻 Code](https://github.com/MiaSanLei/MindBench)
 
 ### 41. (MMSci) MMSci: A Multimodal Multi-Discipline Dataset for PhD-Level Scientific Comprehension
 **Date**: 2024.07.04
@@ -3654,7 +3654,7 @@ material generation task. The source dataset, including articles, figures,
 constructed benchmarks, and visual instruction-following data, is open-sourced.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.04903)
+[📄 Paper](https://arxiv.org/pdf/2407.04903) | [💻 Code](https://github.com/Leezekun/MMSci)
 
 ### 42. (LogicVista) LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts
 **Date**: 2024.07.04
@@ -3677,7 +3677,7 @@ selection, enabling both open-ended and multiple-choice evaluation. A total of
 at https://github.com/Yijia-Xiao/LogicVista.
 </details>
 
-[📄 Paper](https://arxiv.org/html/2407.04973v1)
+[📄 Paper](https://arxiv.org/html/2407.04973v1) | [💻 Code](https://github.com/Yijia-Xiao/LogicVista)
 
 ### 43. (VideoCoT) VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool
 **Date**: 2024.07.05
@@ -3703,7 +3703,7 @@ exploits CoT to maximize the complex reasoning capabilities of MLLMs. Extensive
 experiments demonstrate the effectiveness our solution.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.05355)
+[📄 Paper](https://arxiv.org/pdf/2407.05355) 
 
 ### 44. (SPIQA) SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers
 **Date**: 2024.07.09
@@ -3735,7 +3735,7 @@ and the dataset's impact on revolutionizing how we interact with scientific
 literature.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.09413)
+[📄 Paper](https://arxiv.org/pdf/2407.09413) | [💻 Code](https://github.com/google/spiqa)
 
 ### 45. (MATHCHECK-GEO) Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
 **Date**: 2024.07.11
@@ -3771,7 +3771,7 @@ design. On our MATHCHECK, we can easily conduct detailed behavior analysis to
 deeply investigate models.
 </details>
 
-[📄 Paper](https://arxiv.org/abs/2407.08733)
+[📄 Paper](https://arxiv.org/abs/2407.08733) | [🌐 Project Page](https://mathcheck.github.io/) | [💻 Code](https://github.com/PremiLab-Math/MathCheck)
 
 ### 46. (CHOPINLLM) On Pre-training of Multimodal Language Models Customized for Chart Understanding
 **Date**: 2024.07.20
@@ -3834,7 +3834,7 @@ solid foundation for future enhancements in the comparative capability of
 MLLMs.
 </details>
 
-[📄 Paper](https://arxiv.org/pdf/2407.16837)
+[📄 Paper](https://arxiv.org/pdf/2407.16837) | [🌐 Project Page](https://compbench.github.io/) | [💻 Code](https://github.com/RaptorMai/CompBench)
 
 
 
