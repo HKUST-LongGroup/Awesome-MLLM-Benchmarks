@@ -33,7 +33,7 @@ The capability to process multiple images is crucial for Large Vision-Language M
 
   [📄 Paper](https://arxiv.org/pdf/2303.14465) | [💻 Code](https://github.com/Wangt-CN/EqBen)
 
-### 2. (MMC4) Equivariant Similarity for Vision-Language Foundation Models
+### 2. (MMC4) Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with Text
 **Date: 2023.04.06**
 
 **Affiliation**: University of California
