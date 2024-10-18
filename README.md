@@ -3836,7 +3836,15 @@ MLLMs.
 
 [📄 Paper](https://arxiv.org/pdf/2407.16837) | [🌐 Project Page](https://compbench.github.io/) | [💻 Code](https://github.com/RaptorMai/CompBench)
 
+### 48. (MSR3D) Multi-modal Situated Reasoning in 3D Scenes
+**Date**: 2024.09.04
 
+**Affiliation**: Beijing Institute for General Artificial Intelligence
+<details span>
+<summary><b>Abstract</b></summary>
+Situation awareness is essential for understanding and reasoning about 3D scenes in embodied AI agents. However, existing datasets and benchmarks for situated understanding are limited in data modality, diversity, scale, and task scope. To address these limitations, we propose Multi-modal Situated Question Answering (MSQA), a large-scale multi-modal situated reasoning dataset, scalably collected leveraging 3D scene graphs and vision-language models (VLMs) across a diverse range of real-world 3D scenes. MSQA includes 251K situated question-answering pairs across 9 distinct question categories, covering complex scenarios within 3D scenes. We introduce a novel interleaved multi-modal input setting in our benchmark to provide text, image, and point cloud for situation and question description, resolving ambiguity in previous single-modality convention (e.g., text). Additionally, we devise the Multi-modal Situated Next-step Navigation (MSNN) benchmark to evaluate models' situated reasoning for navigation. Comprehensive evaluations on MSQA and MSNN highlight the limitations of existing vision-language models and underscore the importance of handling multi-modal interleaved inputs and situation modeling. Experiments on data scaling and cross-domain transfer further demonstrate the efficacy of leveraging MSQA as a pre-training dataset for developing more powerful situated reasoning models.
+</details>
+[📄 Paper](https://arxiv.org/abs/2409.02389) | [🌐 Project Page](https://msr3d.github.io/) | [💻 Code](https://github.com/MSR3D/MSR3D)
 
 ## Generation Benchmarks:
 
