@@ -3846,6 +3846,16 @@ Situation awareness is essential for understanding and reasoning about 3D scenes
 </details>
 [📄 Paper](https://arxiv.org/abs/2409.02389) | [🌐 Project Page](https://msr3d.github.io/) | [💻 Code](https://github.com/MSR3D/MSR3D)
 
+### 49. (NaturalBench) NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples
+**Date**: 2024.09.04
+
+**Affiliation**: Carnegie Mellon University
+<details span>
+<summary><b>Abstract</b></summary>
+Vision-language models (VLMs) have made significant progress in recent visual question-answering (VQA) benchmarks that evaluate complex visio-linguistic reasoning. However, are these models truly effective? In this work, we show that VLMs still struggle with natural images and questions that humans can easily answer, which we term natural adversarial samples. We also find it surprisingly easy to generate these VQA samples from natural image-text corpora using off-the-shelf models like CLIP and ChatGPT. We propose a semi-automated approach to collect a new benchmark, NaturalBench, for reliably evaluating VLMs with 10,000 human-verified VQA samples. Crucially, we adopt a vision-centric design by pairing each question with two images that yield different answers, preventing “blind” solutions from answering without using the images. This makes NaturalBench more challenging than previous benchmarks that can largely be solved with language priors like commonsense knowledge. We evaluate 53 state-of-the-art VLMs on NaturalBench, showing that models like BLIP-3, LLaVA-OneVision, Cambrian-1, InternLM-XC2, Llama3.2-Vision, Molmo, Qwen2-VL, and even the (closed-source) GPT-4o lag 50%-70% behind human performance (which is above 90%). We analyze why NaturalBench is hard from two angles: (1) Compositionality: Solving NaturalBench requires diverse visio-linguistic skills, including understanding attribute bindings, object relationships, and advanced reasoning like logic and counting. To this end, unlike prior work that uses a single tag per sample, we tag each NaturalBench sample with 1 to 8 skill tags for fine-grained evaluation. (2) Biases: NaturalBench exposes severe biases in VLMs, as models often choose the same answer regardless of the image. We show that debiasing can be crucial for VLM performance. Lastly, we apply our benchmark curation method to diverse data sources, including long captions (over 100 words) and non-English languages like Chinese and Hindi, highlighting its potential for dynamic evaluations of VLMs.
+</details>
+[📄 Paper](https://arxiv.org/abs/2409.02389](https://arxiv.org/pdf/2410.14669) | [🌐 Project Page](https://linzhiqiu.github.io/papers/naturalbench/) | [💻 Code](https://github.com/Baiqi-Li/NaturalBench)
+
 ## Generation Benchmarks:
 
 ### 1. (LLaVA-Bench) Visual Instruction Tuning
