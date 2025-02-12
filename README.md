@@ -2511,6 +2511,17 @@ Multimodal large language models (MLLMs) have experienced significant advancemen
 
   [📄 Paper](http://arxiv.org/abs/2408.15556) | [🤗 Dataset](https://huggingface.co/datasets/DreamMr/HR-Bench) | [💻 Code](https://github.com/DreamMr/HR-Bench)
 
+### 87. (Inst-IT Bench) Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning 
+**Date**: 2024.12.04
+
+**Affiliation**: Fudan University
+<details span>
+<summary><b>Abstract</b></summary>
+Large Multimodal Models (LMMs) have made significant breakthroughs with the advancement of instruction tuning. However, while existing models can understand images and videos at a holistic level, they still struggle with instance-level understanding that requires a more nuanced comprehension and alignment. Instance-level understanding is crucial, as it focuses on the specific elements that we are most interested in. Excitingly, existing works find that the state-of-the-art LMMs exhibit strong instance understanding capabilities when provided with explicit visual cues. Motivated by this, we introduce an automated annotation pipeline assisted by GPT-4o to extract instance-level information from images and videos through explicit visual prompting for instance guidance. Building upon this pipeline, we proposed Inst-IT, a solution to enhance LMMs in Instance understanding via explicit visual prompt Instruction Tuning. Inst-IT consists of a benchmark to diagnose multimodal instance-level understanding, a large-scale instruction-tuning dataset, and a continuous instruction-tuning training paradigm to effectively enhance spatial-temporal instance understanding capabilities of existing LMMs. Experimental results show that, with the boost of Inst-IT, our models not only achieve outstanding performance on Inst-IT Bench but also demonstrate significant improvements across various generic image and video understanding benchmarks. This highlights that our dataset not only boosts instance-level understanding but also strengthens the overall capabilities of generic image and video comprehension.
+</details>
+
+  [📄 Paper](https://arxiv.org/abs/2412.03565) | [🤗 Dataset](https://huggingface.co/datasets/Inst-IT/Inst-IT-Bench) | [💻 Code](https://github.com/inst-it/inst-it)
+
 ## Reasoning Benchmarks:
 
 ### 1. (DUDE) Document Understanding Dataset and Evaluation (DUDE)
