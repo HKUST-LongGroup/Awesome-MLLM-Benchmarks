@@ -1,6 +1,9 @@
 # Awesome Multimodal Benchmarks
 A list of papers and open-sources on multimodal benchmarks, designed to keep pace with the expected surge in research in the coming months. If you have any additions or suggestions, please feel free to contribute.
 
+## Open-source evaluation tools
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation) — Open-source evaluation toolkit for LLM benchmarks and model comparison.
+
 ## Bibtex
 
 If you find our survey helpful, please consider citing our paper:
