@@ -2522,6 +2522,17 @@ Large Multimodal Models (LMMs) have made significant breakthroughs with the adva
 
   [📄 Paper](https://arxiv.org/abs/2412.03565) | [🤗 Dataset](https://huggingface.co/datasets/Inst-IT/Inst-IT-Bench) | [💻 Code](https://github.com/inst-it/inst-it)
 
+### 88. (GameplayQA) GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents
+**Date**: 2026.03.01
+
+**Affiliation**: University of Southern California (Institute for Creative Technologies)
+<details span>
+<summary><b>Abstract</b></summary>
+We introduce GameplayQA, a diagnostic benchmark for evaluating multimodal large language models on decision-dense, point-of-view (POV) synced multi-video understanding of multi-agent 3D virtual gameplay. Unlike existing video benchmarks that focus on single-stream, real-world activity, GameplayQA targets the underexplored setting of synchronized first-person video streams from multiple 3D virtual agents acting in a shared environment, where models must reason jointly across viewpoints and over time. The benchmark comprises roughly 2.4K question-answer pairs spanning 15 task categories, organized along three cognitive levels and a Self-Other-World decomposition that disentangles an agent's reasoning about itself, about other agents, and about the shared world state. We evaluate a range of state-of-the-art video MLLMs and find substantial gaps in cross-video, temporally grounded, and multi-agent reasoning, highlighting that current models struggle with the decision-dense, synchronized-perspective understanding that GameplayQA is designed to probe.
+</details>
+
+  [📄 Paper](https://arxiv.org/abs/2603.24329) | [🌐 Project](https://hats-ict.github.io/gameplayqa/) | [🤗 Dataset](https://huggingface.co/datasets/wangyz1999/GameplayQA) | [💻 Code](https://github.com/HATS-ICT/GameplayQA)
+
 ## Reasoning Benchmarks:
 
 ### 1. (DUDE) Document Understanding Dataset and Evaluation (DUDE)
