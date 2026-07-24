@@ -3878,6 +3878,17 @@ Vision-language models (VLMs) have made significant progress in recent visual qu
 </details>
 [📄 Paper](https://arxiv.org/abs/2409.02389](https://arxiv.org/pdf/2410.14669) | [🌐 Project Page](https://linzhiqiu.github.io/papers/naturalbench/) | [💻 Code](https://github.com/Baiqi-Li/NaturalBench)
 
+### 50. (SpatialGen-Bench) Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text
+**Date**: 2026.07.23
+
+**Affiliation**: Zhejiang University
+<details span>
+<summary><b>Abstract</b></summary>
+Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing than by reporting precise coordinates or discrete textual symbols. Yet existing spatial reasoning benchmarks usually require coordinates, options, or text, creating an answer-interface mismatch for image-generation models. We propose ProVisE (Protocolized Visual Evaluation), a benchmark-agnostic framework that elicits protocol-constrained visual answers from image-generation models and parses them into structured predictions compatible with original metrics. ProVisE also includes an Agentic builder that constructs and validates task-specific protocols for new benchmarks. We further introduce SpatialGen-Bench, a curated diagnostic benchmark of 470 samples across 14 spatial subtasks, four capability levels, and diverse answer forms. We evaluate representative text-output VLMs and image-generation models in a unified setting and validate Agentic protocol construction on six external spatial benchmarks. Results show that image-generation models are competitive when spatial answers can be externalized directly in pixel space, while text-output VLMs retain a clear advantage in compositional spatial reasoning.
+</details>
+
+[📄 Paper](https://arxiv.org/abs/2607.21072) | [🌐 Project Page](https://zju-omniai.github.io/ProVisE/) | [💻 Code](https://github.com/ZJU-OmniAI/ProVisE)
+
 ## Generation Benchmarks:
 
 ### 1. (LLaVA-Bench) Visual Instruction Tuning
