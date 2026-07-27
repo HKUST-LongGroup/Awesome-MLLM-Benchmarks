@@ -5374,6 +5374,20 @@ dataset and code will be released upon paper acceptance.
 
 
 
+### 53. (StructEval) StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs
+**Date**: 2025.05.26
+
+<details span>
+<summary><b>Abstract</b></summary>
+StructEval benchmarks large language models on structural-output generation and
+conversion across 18 text and visual formats. StructEval-V evaluates renderable
+HTML, React, SVG, Canvas, and visualization-code outputs with structural and
+visual question-answering checks, providing a unified benchmark for multimodal
+generation quality.
+</details>
+
+[📄 Paper](https://arxiv.org/abs/2505.20139) | [🌐 Project Page](https://tiger-ai-lab.github.io/StructEval/) | [💻 Code](https://github.com/TIGER-AI-Lab/StructEval) | [🤗 Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)
+
 ## Application Benchmarks:
 ### 1. (MineDojo) MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 **Date**: 2022.06.17
